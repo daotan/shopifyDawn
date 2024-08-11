@@ -18,14 +18,14 @@
           "type": "announcement",
           "settings": {
             "text": "Welcome to BSSCOMMERCE",
-            "link": ""
+            "link": "shopify:\/\/products\/gift-card"
           }
         },
         "announcement_PPmHMH": {
           "type": "announcement",
           "settings": {
-            "text": "Welcome to our store",
-            "link": ""
+            "text": "This is title bar of ACE",
+            "link": "shopify:\/\/pages\/contact"
           }
         }
       },
